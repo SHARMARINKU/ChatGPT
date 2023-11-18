@@ -1,0 +1,6 @@
+#####################Pre-steps for appscripts.js:
+1. Open the APPS script in the Google Docs extension in the menu tab.
+2. paste the appscripts.js
+3. Change the "const API_KEY" in the code.
+4. Save and run the code.
+5. Now ChatGPT options are available in the menu tab of Google Docs.
